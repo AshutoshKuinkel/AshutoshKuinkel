@@ -39,7 +39,8 @@ Here are some projects I'm proud of:
 ---
 
 ### ⚡ Fun Fact
-I believe in dreaming big and setting goals that seem impossible—because the bigger the dream, the more you grow. 🚀💡
+I believe in dreaming big and setting goals that seem impossible—because the bigger the dream, the more you grow. 🚀💡  
+Consistency is key: small, steady steps every day lead to massive progress over time. 🔑
 
 ---
 

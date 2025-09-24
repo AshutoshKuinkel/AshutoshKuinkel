@@ -32,7 +32,7 @@ I love blending AI with web development to create smarter, interactive, and crea
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img alt="Ashutosh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AshutoshKuinkel&show_icons=true&theme=radical" />
+  
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshKuinkel&layout=compact&theme=radical" />
 </p>
 

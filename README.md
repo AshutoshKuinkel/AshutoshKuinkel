@@ -46,7 +46,7 @@ I love blending AI with web development to create smarter, interactive, and crea
 ### 🚀 Projects Showcase
 Here are some projects I'm proud of:
 
-- [inQuis Job Portal](https://github.com/AshutoshKuinkel/inQuis-Job-Portal) – Full-stack project using Node, Express, MongoDB, and React. **{Under Development}**  
+- [inQuis Job Portal](https://github.com/AshutoshKuinkel/inQuis-Job-Portal) – Full-stack project using Node, Express, MongoDB, and React. **{Adding Stripe payment feature}**  
 
 ---
 

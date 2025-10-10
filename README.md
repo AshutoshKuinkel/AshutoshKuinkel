@@ -30,14 +30,6 @@ I love blending AI with web development to create smarter, interactive, and crea
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-  
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshKuinkel&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 🔥 GitHub Streak
 ![Ashutosh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AshutoshKuinkel&theme=radical&hide_border=true)
 

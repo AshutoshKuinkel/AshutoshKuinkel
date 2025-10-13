@@ -1,4 +1,4 @@
-# <h1 align="center">👋 Hi, I'm Ashutosh Kuinkel</h1>
+# <h1 align="center">👋 Hi, I'm Ashutosh(Ash) Kuinkel</h1>
 
 ### 💻 About Me
 I'm a student and aspiring **Full-Stack Developer**, passionate about building web applications and exploring the world of **AI 🤖**.  

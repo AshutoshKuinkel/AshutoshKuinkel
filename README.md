@@ -39,7 +39,7 @@ Here are some projects I'm proud of:
 - [inQuis Job Portal](https://github.com/AshutoshKuinkel/inQuis-Job-Portal) – Full-stack project using Node, Express, MongoDB, and React + SBERT/gemini for resume scoring. **{Adding more features soon}**  
 
 Projects I'm working on:
-- [KTMVTour-App](https://github.com/AshutoshKuinkel/KTMVTour) - MVP release 2-3 weeks away. Finalising social media component + about to integrate tf lite model into app.
+- [KTMVTour-App](https://github.com/AshutoshKuinkel/KTMVTour) - MVP release upcoming! Ensuring app is secure, editing videos for virtual tours + finalising pages.
 
 ---
 

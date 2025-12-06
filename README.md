@@ -25,12 +25,6 @@ I love blending AI with web/app development to create smarter, interactive, and 
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-
----
-
-### 🔥 GitHub Streak
-![Ashutosh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AshutoshKuinkel&theme=radical&hide_border=true)
-
 ---
 
 ### 🚀 Projects Showcase

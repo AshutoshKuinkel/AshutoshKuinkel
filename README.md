@@ -1,11 +1,11 @@
 # <h1 align="center">👋 Hi, I'm Ashutosh(Ash) Kuinkel</h1>
 
 ### 💻 About Me
-I'm a student and aspiring **Full-Stack Developer**, passionate about building web applications and exploring the world of **AI 🤖**.  
+I'm a student and aspiring **Full-Stack Developer**, passionate about building web and mobile applications and exploring the world of **AI 🤖**.  
 I love blending AI with web/app development to create smarter, interactive, and creative applications.  
 
 - 🌱 Currently learning: Software engineering princples, system design 
-- 👯 Looking to collaborate on: Full-stack projects, AI-powered web apps, mobile apps  
+- 👯 Looking to collaborate on: Full-stack projects, AI-powered web apps, mobile apps, AR apps  
 - 💬 Ask me about: React, Node.js, MongoDB, Express, Python, Tailwind  
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ashutoshkuinkel/)
 

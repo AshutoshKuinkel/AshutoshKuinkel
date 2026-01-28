@@ -3,7 +3,7 @@
 ### 💻 About Me
 I'm a student and aspiring **Full-Stack Developer**, passionate about building scalable solutions to problems.
 
-- 🌱 Currently learning: Software engineering princples, system design 
+- 🌱 Currently learning: Software engineering princples, system design, devops 
 - 👯 Looking to collaborate on: Some cool shit
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ashutoshkuinkel/)
 

@@ -12,7 +12,7 @@ I'm a student and aspiring **Full-Stack Developer**, passionate about building s
 ### 🚀 Projects Showcase
 Here are some of my previous projects:
 
-- [inQuis Job Portal](https://github.com/AshutoshKuinkel/inQuis-Job-Portal) – Full-stack project using Node, Express, MongoDB, and React
+- [inQuis Job Portal](https://github.com/AshutoshKuinkel/inQuis-Job-Portal)
 
 - [KTMVTour-App](https://github.com/AshutoshKuinkel/KTMVTour)
 

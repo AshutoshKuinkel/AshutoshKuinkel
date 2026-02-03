@@ -1,7 +1,7 @@
 # <h1 align="center">👋 Hi, I'm Ashutosh(Ash) Kuinkel</h1>
 
 ### 💻 About Me
-I'm a student and aspiring **Full-Stack Developer**, passionate about building scalable solutions to problems.
+I'm a student and aspiring **Full-Stack Developer**, passionate about building.
 
 - 🌱 Currently learning: Software engineering princples, system design, devops 
 - 👯 Looking to collaborate on: Some cool shit

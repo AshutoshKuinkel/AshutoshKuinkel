@@ -1,26 +1,14 @@
-# <h1 align="center">👋 Hi, I'm Ashutosh(Ash) Kuinkel</h1>
+# <h1 align="center">Ashutosh(ash) Kuinkel</h1>
 
 ### 💻 About Me
-I'm a student and aspiring **Full-Stack Developer**, passionate about building.
+I'm just passionate about building cool stuff.
 
-- 🌱 Currently learning: Software engineering princples, devops, dsa
-- 👯 Looking to collaborate on: Some cool shit
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ashutoshkuinkel/)
-
----
-
-### 🚀 Projects Showcase
-Here are some of my previous projects:
-
-- [inQuis Job Portal](https://github.com/AshutoshKuinkel/inQuis-Job-Portal)
-
-- [KTMVTour-App](https://github.com/AshutoshKuinkel/KTMVTour)
-
+- 🌱 Working on: **DSA, DevOps, Backend Development, and Low-Level Computing Concepts**
 ---
 
 ### ⚡ Fun Fact
-I believe in dreaming big and setting goals that seem impossible—because the bigger the dream, the more you grow. 🚀💡  
-Consistency is key: small, steady steps every day lead to massive progress over time. 🔑
+I believe in dreaming big and setting goals that seem impossible because the bigger the dream, the more you grow.  
+Consistency is key: small, steady steps every day lead to massive progress over time.
 
 ---
 

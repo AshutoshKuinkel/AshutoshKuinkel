@@ -2,7 +2,7 @@
 ### 💻 About Me
 I'm just passionate about building cool stuff.
 
-- 🌱 Working on: **DSA, DevOps, Backend Development, and Low-Level Computing Concepts**
+- Working on: **DSA, DevOps, Backend Development, and Low-Level Computing Concepts**
 ---
 
 ### ⚡ Fun Fact

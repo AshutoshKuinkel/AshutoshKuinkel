@@ -1,4 +1,3 @@
-# <h1 align="center">Ashutosh(ash) Kuinkel</h1>
 
 ### 💻 About Me
 I'm just passionate about building cool stuff.
